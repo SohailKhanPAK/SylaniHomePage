@@ -1,0 +1,61 @@
+.homepage {
+    font-size: 18px;
+    font-weight: bold;
+    font: outline;
+    font-feature-settings: "aalt";
+background-color:royalblue;
+max-width: 100%;
+min-width: 60px;
+text-align: center;
+margin: 0 50px 0 50px;
+margin-top: 50px;
+max-height: 150px;
+min-height: 40px;
+padding-top: 10px;
+
+  }
+.student_form {
+    font-size: 18px;
+    font-weight: bold;
+    font: outline;
+    font-feature-settings: "aalt";
+background-color:violet;
+max-width: 100%;
+min-width: 60px;
+text-align: center;
+margin: 0 200px 0 200px;
+margin-top: 20px;
+max-height: 150px;
+min-height: 40px;
+padding-top: 10px;
+  }
+.facebook {
+    font-size: 20px;
+    font-weight: bold;
+    font: outline;
+    font-feature-settings:"size";
+background-color:olive;
+max-width: 100%;
+min-width: 60px;
+text-align: center;
+margin: 0 300px 0 300px;
+margin-top: 20px;
+max-height: 150px;
+min-height: 40px;
+padding-top: 10px;
+  }
+  .git{
+    font-size: 20px;
+    font-weight: bold;
+    font: outline;
+    font-feature-settings:"size";
+background-color:lightblue;
+max-width: 100%;
+min-width: 60px;
+text-align: center;
+margin: 0 400px 0 400px;
+margin-top: 20px;
+max-height: 150px;
+min-height: 40px;
+padding-top: 10px;
+  }
